@@ -2,7 +2,7 @@
 
 ## Lamda Expressions
 
-[Link] https://www.geeksforgeeks.org/lambda-expression-in-c/
+[Link] (https://www.geeksforgeeks.org/lambda-expression-in-c/( - Test
 
 
 ## Variable Templates
@@ -15,6 +15,7 @@
 
 ## Constexpr
 
+## Smart Pointer
 
 
 
